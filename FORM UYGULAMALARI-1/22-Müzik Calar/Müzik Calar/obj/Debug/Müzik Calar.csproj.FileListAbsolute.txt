@@ -1,0 +1,15 @@
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\bin\Debug\Müzik Calar.exe.config
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\bin\Debug\Müzik Calar.exe
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\bin\Debug\Müzik Calar.pdb
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\bin\Debug\Interop.WMPLib.dll
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\obj\Debug\Müzik Calar.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\obj\Debug\Interop.WMPLib.dll
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\obj\Debug\Müzik Calar.csproj.ResolveComReference.cache
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\obj\Debug\Müzik_Calar.Form1.resources
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\obj\Debug\Müzik_Calar.Properties.Resources.resources
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\obj\Debug\Müzik Calar.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\obj\Debug\Müzik Calar.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\obj\Debug\Müzik Calar.exe
+C:\Users\yunus\source\repos\Müzik Calar\Müzik Calar\obj\Debug\Müzik Calar.pdb

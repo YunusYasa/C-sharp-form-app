@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Kayıt Programı-With SQL\Kayıt Programı-With SQL\bin\Debug\Kayıt Programı-With SQL.exe.config
+C:\Users\yunus\source\repos\Kayıt Programı-With SQL\Kayıt Programı-With SQL\bin\Debug\Kayıt Programı-With SQL.exe
+C:\Users\yunus\source\repos\Kayıt Programı-With SQL\Kayıt Programı-With SQL\bin\Debug\Kayıt Programı-With SQL.pdb
+C:\Users\yunus\source\repos\Kayıt Programı-With SQL\Kayıt Programı-With SQL\obj\Debug\Kayıt Programı-With SQL.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Kayıt Programı-With SQL\Kayıt Programı-With SQL\obj\Debug\Kayıt_Programı_With_SQL.Form1.resources
+C:\Users\yunus\source\repos\Kayıt Programı-With SQL\Kayıt Programı-With SQL\obj\Debug\Kayıt_Programı_With_SQL.Properties.Resources.resources
+C:\Users\yunus\source\repos\Kayıt Programı-With SQL\Kayıt Programı-With SQL\obj\Debug\Kayıt Programı-With SQL.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Kayıt Programı-With SQL\Kayıt Programı-With SQL\obj\Debug\Kayıt Programı-With SQL.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Kayıt Programı-With SQL\Kayıt Programı-With SQL\obj\Debug\Kayıt Programı-With SQL.exe
+C:\Users\yunus\source\repos\Kayıt Programı-With SQL\Kayıt Programı-With SQL\obj\Debug\Kayıt Programı-With SQL.pdb

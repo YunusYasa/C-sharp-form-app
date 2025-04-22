@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Ekran görüntüsü alma\Ekran görüntüsü alma\bin\Debug\Ekran görüntüsü alma.exe.config
+C:\Users\yunus\source\repos\Ekran görüntüsü alma\Ekran görüntüsü alma\bin\Debug\Ekran görüntüsü alma.exe
+C:\Users\yunus\source\repos\Ekran görüntüsü alma\Ekran görüntüsü alma\bin\Debug\Ekran görüntüsü alma.pdb
+C:\Users\yunus\source\repos\Ekran görüntüsü alma\Ekran görüntüsü alma\obj\Debug\Ekran görüntüsü alma.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Ekran görüntüsü alma\Ekran görüntüsü alma\obj\Debug\Ekran_görüntüsü_alma.Form1.resources
+C:\Users\yunus\source\repos\Ekran görüntüsü alma\Ekran görüntüsü alma\obj\Debug\Ekran_görüntüsü_alma.Properties.Resources.resources
+C:\Users\yunus\source\repos\Ekran görüntüsü alma\Ekran görüntüsü alma\obj\Debug\Ekran görüntüsü alma.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Ekran görüntüsü alma\Ekran görüntüsü alma\obj\Debug\Ekran görüntüsü alma.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Ekran görüntüsü alma\Ekran görüntüsü alma\obj\Debug\Ekran görüntüsü alma.exe
+C:\Users\yunus\source\repos\Ekran görüntüsü alma\Ekran görüntüsü alma\obj\Debug\Ekran görüntüsü alma.pdb

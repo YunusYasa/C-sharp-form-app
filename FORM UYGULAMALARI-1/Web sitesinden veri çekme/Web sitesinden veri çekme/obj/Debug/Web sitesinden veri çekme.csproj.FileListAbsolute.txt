@@ -1,0 +1,14 @@
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\bin\Debug\Web sitesinden veri çekme.exe.config
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\bin\Debug\Web sitesinden veri çekme.exe
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\bin\Debug\Web sitesinden veri çekme.pdb
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\bin\Debug\HtmlAgilityPack.dll
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\bin\Debug\HtmlAgilityPack.xml
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\obj\Debug\Web sitesinden veri çekme.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\obj\Debug\Web_sitesinden_veri_çekme.Form1.resources
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\obj\Debug\Web_sitesinden_veri_çekme.Properties.Resources.resources
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\obj\Debug\Web sitesinden veri çekme.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\obj\Debug\Web sitesinden veri çekme.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\obj\Debug\Web sitesinden veri çekme.csproj.CopyComplete
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\obj\Debug\Web sitesinden veri çekme.exe
+C:\Users\yunus\source\repos\Web sitesinden veri çekme\Web sitesinden veri çekme\obj\Debug\Web sitesinden veri çekme.pdb

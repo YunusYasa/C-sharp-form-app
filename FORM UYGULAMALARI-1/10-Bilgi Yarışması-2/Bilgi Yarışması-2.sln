@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilgi Yarışması-2", "Bilgi Yarışması-2\Bilgi Yarışması-2.csproj", "{B8B6D40F-3DBA-4F26-855F-BB96C8DAB02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B6D40F-3DBA-4F26-855F-BB96C8DAB02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B6D40F-3DBA-4F26-855F-BB96C8DAB02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B6D40F-3DBA-4F26-855F-BB96C8DAB02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B6D40F-3DBA-4F26-855F-BB96C8DAB02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69507875-CE77-4A3F-854C-65660F24D0E5}
+	EndGlobalSection
+EndGlobal

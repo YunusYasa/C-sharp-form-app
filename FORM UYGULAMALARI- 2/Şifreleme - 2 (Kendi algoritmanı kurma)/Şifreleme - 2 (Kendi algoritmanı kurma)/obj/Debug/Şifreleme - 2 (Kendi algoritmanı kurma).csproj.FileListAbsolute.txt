@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Şifreleme - 2 (Kendi algoritmanı kurma)\Şifreleme - 2 (Kendi algoritmanı kurma)\obj\Debug\Şifreleme - 2 (Kendi algoritmanı kurma).csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Şifreleme - 2 (Kendi algoritmanı kurma)\Şifreleme - 2 (Kendi algoritmanı kurma)\obj\Debug\Şifreleme___2__Kendi_algoritmanı_kurma_.Form1.resources
+C:\Users\yunus\source\repos\Şifreleme - 2 (Kendi algoritmanı kurma)\Şifreleme - 2 (Kendi algoritmanı kurma)\obj\Debug\Şifreleme___2__Kendi_algoritmanı_kurma_.Properties.Resources.resources
+C:\Users\yunus\source\repos\Şifreleme - 2 (Kendi algoritmanı kurma)\Şifreleme - 2 (Kendi algoritmanı kurma)\obj\Debug\Şifreleme - 2 (Kendi algoritmanı kurma).csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Şifreleme - 2 (Kendi algoritmanı kurma)\Şifreleme - 2 (Kendi algoritmanı kurma)\obj\Debug\Şifreleme - 2 (Kendi algoritmanı kurma).csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Şifreleme - 2 (Kendi algoritmanı kurma)\Şifreleme - 2 (Kendi algoritmanı kurma)\bin\Debug\Şifreleme - 2 (Kendi algoritmanı kurma).exe.config
+C:\Users\yunus\source\repos\Şifreleme - 2 (Kendi algoritmanı kurma)\Şifreleme - 2 (Kendi algoritmanı kurma)\bin\Debug\Şifreleme - 2 (Kendi algoritmanı kurma).exe
+C:\Users\yunus\source\repos\Şifreleme - 2 (Kendi algoritmanı kurma)\Şifreleme - 2 (Kendi algoritmanı kurma)\bin\Debug\Şifreleme - 2 (Kendi algoritmanı kurma).pdb
+C:\Users\yunus\source\repos\Şifreleme - 2 (Kendi algoritmanı kurma)\Şifreleme - 2 (Kendi algoritmanı kurma)\obj\Debug\Şifreleme - 2 (Kendi algoritmanı kurma).exe
+C:\Users\yunus\source\repos\Şifreleme - 2 (Kendi algoritmanı kurma)\Şifreleme - 2 (Kendi algoritmanı kurma)\obj\Debug\Şifreleme - 2 (Kendi algoritmanı kurma).pdb

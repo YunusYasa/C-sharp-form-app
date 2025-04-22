@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Kayan yazı(bonus)\Kayan yazı(bonus)\bin\Debug\Kayan yazı(bonus).exe.config
+C:\Users\yunus\source\repos\Kayan yazı(bonus)\Kayan yazı(bonus)\bin\Debug\Kayan yazı(bonus).exe
+C:\Users\yunus\source\repos\Kayan yazı(bonus)\Kayan yazı(bonus)\bin\Debug\Kayan yazı(bonus).pdb
+C:\Users\yunus\source\repos\Kayan yazı(bonus)\Kayan yazı(bonus)\obj\Debug\Kayan yazı(bonus).csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Kayan yazı(bonus)\Kayan yazı(bonus)\obj\Debug\Kayan_yazı_bonus_.Form1.resources
+C:\Users\yunus\source\repos\Kayan yazı(bonus)\Kayan yazı(bonus)\obj\Debug\Kayan_yazı_bonus_.Properties.Resources.resources
+C:\Users\yunus\source\repos\Kayan yazı(bonus)\Kayan yazı(bonus)\obj\Debug\Kayan yazı(bonus).csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Kayan yazı(bonus)\Kayan yazı(bonus)\obj\Debug\Kayan yazı(bonus).csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Kayan yazı(bonus)\Kayan yazı(bonus)\obj\Debug\Kayan yazı(bonus).exe
+C:\Users\yunus\source\repos\Kayan yazı(bonus)\Kayan yazı(bonus)\obj\Debug\Kayan yazı(bonus).pdb

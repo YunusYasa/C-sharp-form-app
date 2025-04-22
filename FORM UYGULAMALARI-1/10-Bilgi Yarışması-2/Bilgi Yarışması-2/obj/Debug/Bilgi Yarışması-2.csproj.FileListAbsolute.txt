@@ -1,0 +1,22 @@
+C:\Users\yunus\source\repos\Bilgi Yarışması-2\Bilgi Yarışması-2\bin\Debug\Bilgi Yarışması-2.exe.config
+C:\Users\yunus\source\repos\Bilgi Yarışması-2\Bilgi Yarışması-2\bin\Debug\Bilgi Yarışması-2.exe
+C:\Users\yunus\source\repos\Bilgi Yarışması-2\Bilgi Yarışması-2\bin\Debug\Bilgi Yarışması-2.pdb
+C:\Users\yunus\source\repos\Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi Yarışması-2.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi_Yarışması_2.Form1.resources
+C:\Users\yunus\source\repos\Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi_Yarışması_2.Form2.resources
+C:\Users\yunus\source\repos\Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi_Yarışması_2.Properties.Resources.resources
+C:\Users\yunus\source\repos\Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi Yarışması-2.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi Yarışması-2.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi Yarışması-2.exe
+C:\Users\yunus\source\repos\Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi Yarışması-2.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\10-Bilgi Yarışması-2\Bilgi Yarışması-2\bin\Debug\Bilgi Yarışması-2.exe.config
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\10-Bilgi Yarışması-2\Bilgi Yarışması-2\bin\Debug\Bilgi Yarışması-2.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\10-Bilgi Yarışması-2\Bilgi Yarışması-2\bin\Debug\Bilgi Yarışması-2.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\10-Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi Yarışması-2.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\10-Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi_Yarışması_2.Form1.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\10-Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi_Yarışması_2.Form2.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\10-Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi_Yarışması_2.Properties.Resources.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\10-Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi Yarışması-2.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\10-Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi Yarışması-2.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\10-Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi Yarışması-2.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\10-Bilgi Yarışması-2\Bilgi Yarışması-2\obj\Debug\Bilgi Yarışması-2.pdb

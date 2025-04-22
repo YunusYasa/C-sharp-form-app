@@ -1,0 +1,48 @@
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\bin\Debug\Alarm Programı.exe.config
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\bin\Debug\Alarm Programı.exe
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\bin\Debug\Alarm Programı.pdb
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\obj\Debug\Alarm_Programı.Form1.resources
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\obj\Debug\Alarm_Programı.Properties.Resources.resources
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.exe
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.pdb
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\obj\Debug\Interop.WMPLib.dll
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.csproj.ResolveComReference.cache
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\obj\Debug\Alarm_Programı.Form2.resources
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\bin\Debug\Interop.WMPLib.dll
+C:\Users\yunus\source\repos\Alarm Programı\Alarm Programı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\bin\Debug\Alarm Programı.exe.config
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\bin\Debug\Alarm Programı.exe
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\bin\Debug\Alarm Programı.pdb
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\bin\Debug\Interop.WMPLib.dll
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\obj\Debug\Interop.WMPLib.dll
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.csproj.ResolveComReference.cache
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm_Programı.Form1.resources
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm_Programı.Form2.resources
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm_Programı.Properties.Resources.resources
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.exe
+C:\Users\yunus\source\repos\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\bin\Debug\Alarm Programı.exe.config
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\bin\Debug\Alarm Programı.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\bin\Debug\Alarm Programı.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\bin\Debug\Interop.WMPLib.dll
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\obj\Debug\Interop.WMPLib.dll
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.csproj.ResolveComReference.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm_Programı.Form1.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm_Programı.Form2.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm_Programı.Properties.Resources.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\2-Alarm Programı\Alarm Programı\obj\Debug\Alarm Programı.pdb

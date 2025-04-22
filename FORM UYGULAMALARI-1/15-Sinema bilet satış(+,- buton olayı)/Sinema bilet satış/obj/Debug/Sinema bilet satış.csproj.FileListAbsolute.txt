@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Sinema bilet satış\Sinema bilet satış\bin\Debug\Sinema bilet satış.exe.config
+C:\Users\yunus\source\repos\Sinema bilet satış\Sinema bilet satış\bin\Debug\Sinema bilet satış.exe
+C:\Users\yunus\source\repos\Sinema bilet satış\Sinema bilet satış\bin\Debug\Sinema bilet satış.pdb
+C:\Users\yunus\source\repos\Sinema bilet satış\Sinema bilet satış\obj\Debug\Sinema bilet satış.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Sinema bilet satış\Sinema bilet satış\obj\Debug\Sinema_bilet_satış.Form1.resources
+C:\Users\yunus\source\repos\Sinema bilet satış\Sinema bilet satış\obj\Debug\Sinema_bilet_satış.Properties.Resources.resources
+C:\Users\yunus\source\repos\Sinema bilet satış\Sinema bilet satış\obj\Debug\Sinema bilet satış.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Sinema bilet satış\Sinema bilet satış\obj\Debug\Sinema bilet satış.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Sinema bilet satış\Sinema bilet satış\obj\Debug\Sinema bilet satış.exe
+C:\Users\yunus\source\repos\Sinema bilet satış\Sinema bilet satış\obj\Debug\Sinema bilet satış.pdb

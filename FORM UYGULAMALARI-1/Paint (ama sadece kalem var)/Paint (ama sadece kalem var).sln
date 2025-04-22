@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint (ama sadece kalem var)", "Paint (ama sadece kalem var)\Paint (ama sadece kalem var).csproj", "{2AB088D5-FFA2-4338-A103-1AC595886BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AB088D5-FFA2-4338-A103-1AC595886BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB088D5-FFA2-4338-A103-1AC595886BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB088D5-FFA2-4338-A103-1AC595886BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB088D5-FFA2-4338-A103-1AC595886BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCD9A7F9-6612-4B7F-ADCD-711FFB577EA5}
+	EndGlobalSection
+EndGlobal

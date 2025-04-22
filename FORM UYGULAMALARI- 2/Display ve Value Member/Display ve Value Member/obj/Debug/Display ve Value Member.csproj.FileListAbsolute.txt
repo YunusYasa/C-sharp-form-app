@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Display ve Value Member\Display ve Value Member\obj\Debug\Display ve Value Member.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Display ve Value Member\Display ve Value Member\obj\Debug\Display_ve_Value_Member.Form1.resources
+C:\Users\yunus\source\repos\Display ve Value Member\Display ve Value Member\obj\Debug\Display_ve_Value_Member.Properties.Resources.resources
+C:\Users\yunus\source\repos\Display ve Value Member\Display ve Value Member\obj\Debug\Display ve Value Member.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Display ve Value Member\Display ve Value Member\obj\Debug\Display ve Value Member.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Display ve Value Member\Display ve Value Member\bin\Debug\Display ve Value Member.exe.config
+C:\Users\yunus\source\repos\Display ve Value Member\Display ve Value Member\bin\Debug\Display ve Value Member.exe
+C:\Users\yunus\source\repos\Display ve Value Member\Display ve Value Member\bin\Debug\Display ve Value Member.pdb
+C:\Users\yunus\source\repos\Display ve Value Member\Display ve Value Member\obj\Debug\Display ve Value Member.exe
+C:\Users\yunus\source\repos\Display ve Value Member\Display ve Value Member\obj\Debug\Display ve Value Member.pdb

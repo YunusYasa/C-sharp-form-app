@@ -1,0 +1,12 @@
+C:\Users\yunus\source\repos\Admin Giriş\Admin Giriş\bin\Debug\Admin Giriş.exe.config
+C:\Users\yunus\source\repos\Admin Giriş\Admin Giriş\bin\Debug\Admin Giriş.exe
+C:\Users\yunus\source\repos\Admin Giriş\Admin Giriş\bin\Debug\Admin Giriş.pdb
+C:\Users\yunus\source\repos\Admin Giriş\Admin Giriş\obj\Debug\Admin Giriş.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Admin Giriş\Admin Giriş\obj\Debug\Admin_Giriş.Form1.resources
+C:\Users\yunus\source\repos\Admin Giriş\Admin Giriş\obj\Debug\Admin_Giriş.Form2.resources
+C:\Users\yunus\source\repos\Admin Giriş\Admin Giriş\obj\Debug\Admin_Giriş.Properties.Resources.resources
+C:\Users\yunus\source\repos\Admin Giriş\Admin Giriş\obj\Debug\Admin Giriş.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Admin Giriş\Admin Giriş\obj\Debug\Admin Giriş.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Admin Giriş\Admin Giriş\obj\Debug\Admin Giriş.exe
+C:\Users\yunus\source\repos\Admin Giriş\Admin Giriş\obj\Debug\Admin Giriş.pdb
+C:\Users\yunus\source\repos\Admin Giriş\Admin Giriş\obj\Debug\Admin_Giriş.Form3.resources

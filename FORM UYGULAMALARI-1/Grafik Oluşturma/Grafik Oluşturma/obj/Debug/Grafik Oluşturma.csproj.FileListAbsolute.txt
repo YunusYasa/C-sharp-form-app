@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Grafik Oluşturma\Grafik Oluşturma\bin\Debug\Grafik Oluşturma.exe.config
+C:\Users\yunus\source\repos\Grafik Oluşturma\Grafik Oluşturma\bin\Debug\Grafik Oluşturma.exe
+C:\Users\yunus\source\repos\Grafik Oluşturma\Grafik Oluşturma\bin\Debug\Grafik Oluşturma.pdb
+C:\Users\yunus\source\repos\Grafik Oluşturma\Grafik Oluşturma\obj\Debug\Grafik Oluşturma.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Grafik Oluşturma\Grafik Oluşturma\obj\Debug\Grafik_Oluşturma.Form1.resources
+C:\Users\yunus\source\repos\Grafik Oluşturma\Grafik Oluşturma\obj\Debug\Grafik_Oluşturma.Properties.Resources.resources
+C:\Users\yunus\source\repos\Grafik Oluşturma\Grafik Oluşturma\obj\Debug\Grafik Oluşturma.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Grafik Oluşturma\Grafik Oluşturma\obj\Debug\Grafik Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Grafik Oluşturma\Grafik Oluşturma\obj\Debug\Grafik Oluşturma.exe
+C:\Users\yunus\source\repos\Grafik Oluşturma\Grafik Oluşturma\obj\Debug\Grafik Oluşturma.pdb

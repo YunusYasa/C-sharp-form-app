@@ -1,0 +1,12 @@
+C:\Users\yunus\source\repos\Bilgi yarışması(deneysel)\Bilgi yarışması(deneysel)\bin\Debug\Bilgi yarışması(deneysel).exe.config
+C:\Users\yunus\source\repos\Bilgi yarışması(deneysel)\Bilgi yarışması(deneysel)\bin\Debug\Bilgi yarışması(deneysel).exe
+C:\Users\yunus\source\repos\Bilgi yarışması(deneysel)\Bilgi yarışması(deneysel)\bin\Debug\Bilgi yarışması(deneysel).pdb
+C:\Users\yunus\source\repos\Bilgi yarışması(deneysel)\Bilgi yarışması(deneysel)\obj\Debug\Bilgi yarışması(deneysel).csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Bilgi yarışması(deneysel)\Bilgi yarışması(deneysel)\obj\Debug\Bilgi_yarışması_deneysel_.Form1.resources
+C:\Users\yunus\source\repos\Bilgi yarışması(deneysel)\Bilgi yarışması(deneysel)\obj\Debug\Bilgi_yarışması_deneysel_.Form2.resources
+C:\Users\yunus\source\repos\Bilgi yarışması(deneysel)\Bilgi yarışması(deneysel)\obj\Debug\Bilgi_yarışması_deneysel_.Properties.Resources.resources
+C:\Users\yunus\source\repos\Bilgi yarışması(deneysel)\Bilgi yarışması(deneysel)\obj\Debug\Bilgi yarışması(deneysel).csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Bilgi yarışması(deneysel)\Bilgi yarışması(deneysel)\obj\Debug\Bilgi yarışması(deneysel).csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Bilgi yarışması(deneysel)\Bilgi yarışması(deneysel)\obj\Debug\Bilgi yarışması(deneysel).exe
+C:\Users\yunus\source\repos\Bilgi yarışması(deneysel)\Bilgi yarışması(deneysel)\obj\Debug\Bilgi yarışması(deneysel).pdb
+C:\Users\yunus\source\repos\Bilgi yarışması(deneysel)\Bilgi yarışması(deneysel)\obj\Debug\Bilgi_yarışması_deneysel_.Form3.resources

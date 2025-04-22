@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Trafik Işıkları\Trafik Işıkları\bin\Debug\Trafik Işıkları.exe.config
+C:\Users\yunus\source\repos\Trafik Işıkları\Trafik Işıkları\bin\Debug\Trafik Işıkları.exe
+C:\Users\yunus\source\repos\Trafik Işıkları\Trafik Işıkları\bin\Debug\Trafik Işıkları.pdb
+C:\Users\yunus\source\repos\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik Işıkları.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik_Işıkları.Form1.resources
+C:\Users\yunus\source\repos\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik_Işıkları.Properties.Resources.resources
+C:\Users\yunus\source\repos\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik Işıkları.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik Işıkları.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik Işıkları.exe
+C:\Users\yunus\source\repos\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik Işıkları.pdb

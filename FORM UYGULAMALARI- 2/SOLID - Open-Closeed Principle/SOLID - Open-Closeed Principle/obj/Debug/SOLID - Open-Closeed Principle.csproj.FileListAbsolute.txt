@@ -1,0 +1,7 @@
+C:\Users\yunus\source\repos\SOLID - Open-Closeed Principle\SOLID - Open-Closeed Principle\bin\Debug\SOLID - Open-Closeed Principle.exe.config
+C:\Users\yunus\source\repos\SOLID - Open-Closeed Principle\SOLID - Open-Closeed Principle\bin\Debug\SOLID - Open-Closeed Principle.exe
+C:\Users\yunus\source\repos\SOLID - Open-Closeed Principle\SOLID - Open-Closeed Principle\bin\Debug\SOLID - Open-Closeed Principle.pdb
+C:\Users\yunus\source\repos\SOLID - Open-Closeed Principle\SOLID - Open-Closeed Principle\obj\Debug\SOLID - Open-Closeed Principle.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\SOLID - Open-Closeed Principle\SOLID - Open-Closeed Principle\obj\Debug\SOLID - Open-Closeed Principle.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\SOLID - Open-Closeed Principle\SOLID - Open-Closeed Principle\obj\Debug\SOLID - Open-Closeed Principle.exe
+C:\Users\yunus\source\repos\SOLID - Open-Closeed Principle\SOLID - Open-Closeed Principle\obj\Debug\SOLID - Open-Closeed Principle.pdb

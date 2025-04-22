@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Sesli Komut İşlemleri\Sesli Komut İşlemleri\bin\Debug\Sesli Komut İşlemleri.exe.config
+C:\Users\yunus\source\repos\Sesli Komut İşlemleri\Sesli Komut İşlemleri\bin\Debug\Sesli Komut İşlemleri.exe
+C:\Users\yunus\source\repos\Sesli Komut İşlemleri\Sesli Komut İşlemleri\bin\Debug\Sesli Komut İşlemleri.pdb
+C:\Users\yunus\source\repos\Sesli Komut İşlemleri\Sesli Komut İşlemleri\obj\Debug\Sesli Komut İşlemleri.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Sesli Komut İşlemleri\Sesli Komut İşlemleri\obj\Debug\Sesli_Komut_İşlemleri.Form1.resources
+C:\Users\yunus\source\repos\Sesli Komut İşlemleri\Sesli Komut İşlemleri\obj\Debug\Sesli_Komut_İşlemleri.Properties.Resources.resources
+C:\Users\yunus\source\repos\Sesli Komut İşlemleri\Sesli Komut İşlemleri\obj\Debug\Sesli Komut İşlemleri.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Sesli Komut İşlemleri\Sesli Komut İşlemleri\obj\Debug\Sesli Komut İşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Sesli Komut İşlemleri\Sesli Komut İşlemleri\obj\Debug\Sesli Komut İşlemleri.exe
+C:\Users\yunus\source\repos\Sesli Komut İşlemleri\Sesli Komut İşlemleri\obj\Debug\Sesli Komut İşlemleri.pdb

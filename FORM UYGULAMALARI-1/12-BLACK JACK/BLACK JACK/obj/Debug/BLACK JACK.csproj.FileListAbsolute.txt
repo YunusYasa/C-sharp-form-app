@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\BLACK JACK\BLACK JACK\bin\Debug\BLACK JACK.exe.config
+C:\Users\yunus\source\repos\BLACK JACK\BLACK JACK\bin\Debug\BLACK JACK.exe
+C:\Users\yunus\source\repos\BLACK JACK\BLACK JACK\bin\Debug\BLACK JACK.pdb
+C:\Users\yunus\source\repos\BLACK JACK\BLACK JACK\obj\Debug\BLACK JACK.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\BLACK JACK\BLACK JACK\obj\Debug\BLACK_JACK.Form1.resources
+C:\Users\yunus\source\repos\BLACK JACK\BLACK JACK\obj\Debug\BLACK_JACK.Properties.Resources.resources
+C:\Users\yunus\source\repos\BLACK JACK\BLACK JACK\obj\Debug\BLACK JACK.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\BLACK JACK\BLACK JACK\obj\Debug\BLACK JACK.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\BLACK JACK\BLACK JACK\obj\Debug\BLACK JACK.exe
+C:\Users\yunus\source\repos\BLACK JACK\BLACK JACK\obj\Debug\BLACK JACK.pdb

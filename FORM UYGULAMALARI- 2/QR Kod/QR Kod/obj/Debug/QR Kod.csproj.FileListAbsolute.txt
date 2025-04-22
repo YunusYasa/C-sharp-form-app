@@ -1,0 +1,12 @@
+C:\Users\yunus\source\repos\QR Kod\QR Kod\bin\Debug\QR Kod.exe.config
+C:\Users\yunus\source\repos\QR Kod\QR Kod\bin\Debug\QR Kod.exe
+C:\Users\yunus\source\repos\QR Kod\QR Kod\bin\Debug\QR Kod.pdb
+C:\Users\yunus\source\repos\QR Kod\QR Kod\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\yunus\source\repos\QR Kod\QR Kod\obj\Debug\QR Kod.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\QR Kod\QR Kod\obj\Debug\QR_Kod.Form1.resources
+C:\Users\yunus\source\repos\QR Kod\QR Kod\obj\Debug\QR_Kod.Properties.Resources.resources
+C:\Users\yunus\source\repos\QR Kod\QR Kod\obj\Debug\QR Kod.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\QR Kod\QR Kod\obj\Debug\QR Kod.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\QR Kod\QR Kod\obj\Debug\QR Kod.csproj.CopyComplete
+C:\Users\yunus\source\repos\QR Kod\QR Kod\obj\Debug\QR Kod.exe
+C:\Users\yunus\source\repos\QR Kod\QR Kod\obj\Debug\QR Kod.pdb

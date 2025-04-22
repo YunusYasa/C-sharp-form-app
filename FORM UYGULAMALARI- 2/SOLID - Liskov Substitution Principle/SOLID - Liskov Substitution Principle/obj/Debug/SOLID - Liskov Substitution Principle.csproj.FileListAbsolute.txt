@@ -1,0 +1,7 @@
+C:\Users\yunus\source\repos\SOLID - Liskov Substitution Principle\SOLID - Liskov Substitution Principle\bin\Debug\SOLID - Liskov Substitution Principle.exe.config
+C:\Users\yunus\source\repos\SOLID - Liskov Substitution Principle\SOLID - Liskov Substitution Principle\bin\Debug\SOLID - Liskov Substitution Principle.exe
+C:\Users\yunus\source\repos\SOLID - Liskov Substitution Principle\SOLID - Liskov Substitution Principle\bin\Debug\SOLID - Liskov Substitution Principle.pdb
+C:\Users\yunus\source\repos\SOLID - Liskov Substitution Principle\SOLID - Liskov Substitution Principle\obj\Debug\SOLID - Liskov Substitution Principle.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\SOLID - Liskov Substitution Principle\SOLID - Liskov Substitution Principle\obj\Debug\SOLID - Liskov Substitution Principle.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\SOLID - Liskov Substitution Principle\SOLID - Liskov Substitution Principle\obj\Debug\SOLID - Liskov Substitution Principle.exe
+C:\Users\yunus\source\repos\SOLID - Liskov Substitution Principle\SOLID - Liskov Substitution Principle\obj\Debug\SOLID - Liskov Substitution Principle.pdb

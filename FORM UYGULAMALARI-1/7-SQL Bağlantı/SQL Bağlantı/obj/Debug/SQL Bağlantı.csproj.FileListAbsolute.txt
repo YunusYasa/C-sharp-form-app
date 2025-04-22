@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\SQL Bağlantı\SQL Bağlantı\bin\Debug\SQL Bağlantı.exe.config
+C:\Users\yunus\source\repos\SQL Bağlantı\SQL Bağlantı\bin\Debug\SQL Bağlantı.exe
+C:\Users\yunus\source\repos\SQL Bağlantı\SQL Bağlantı\bin\Debug\SQL Bağlantı.pdb
+C:\Users\yunus\source\repos\SQL Bağlantı\SQL Bağlantı\obj\Debug\SQL Bağlantı.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\SQL Bağlantı\SQL Bağlantı\obj\Debug\SQL_Bağlantı.Form1.resources
+C:\Users\yunus\source\repos\SQL Bağlantı\SQL Bağlantı\obj\Debug\SQL_Bağlantı.Properties.Resources.resources
+C:\Users\yunus\source\repos\SQL Bağlantı\SQL Bağlantı\obj\Debug\SQL Bağlantı.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\SQL Bağlantı\SQL Bağlantı\obj\Debug\SQL Bağlantı.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\SQL Bağlantı\SQL Bağlantı\obj\Debug\SQL Bağlantı.exe
+C:\Users\yunus\source\repos\SQL Bağlantı\SQL Bağlantı\obj\Debug\SQL Bağlantı.pdb

@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Time Span(zaman farkı)\Time Span(zaman farkı)\obj\Debug\Time Span(zaman farkı).csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Time Span(zaman farkı)\Time Span(zaman farkı)\obj\Debug\Time_Span_zaman_farkı_.Form1.resources
+C:\Users\yunus\source\repos\Time Span(zaman farkı)\Time Span(zaman farkı)\obj\Debug\Time_Span_zaman_farkı_.Properties.Resources.resources
+C:\Users\yunus\source\repos\Time Span(zaman farkı)\Time Span(zaman farkı)\obj\Debug\Time Span(zaman farkı).csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Time Span(zaman farkı)\Time Span(zaman farkı)\obj\Debug\Time Span(zaman farkı).csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Time Span(zaman farkı)\Time Span(zaman farkı)\bin\Debug\Time Span(zaman farkı).exe.config
+C:\Users\yunus\source\repos\Time Span(zaman farkı)\Time Span(zaman farkı)\bin\Debug\Time Span(zaman farkı).exe
+C:\Users\yunus\source\repos\Time Span(zaman farkı)\Time Span(zaman farkı)\bin\Debug\Time Span(zaman farkı).pdb
+C:\Users\yunus\source\repos\Time Span(zaman farkı)\Time Span(zaman farkı)\obj\Debug\Time Span(zaman farkı).exe
+C:\Users\yunus\source\repos\Time Span(zaman farkı)\Time Span(zaman farkı)\obj\Debug\Time Span(zaman farkı).pdb

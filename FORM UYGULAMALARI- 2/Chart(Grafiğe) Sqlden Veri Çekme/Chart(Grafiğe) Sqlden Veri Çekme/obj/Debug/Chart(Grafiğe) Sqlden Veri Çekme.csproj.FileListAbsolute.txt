@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Chart(Grafiğe) Sqlden Veri Çekme\Chart(Grafiğe) Sqlden Veri Çekme\obj\Debug\Chart(Grafiğe) Sqlden Veri Çekme.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Chart(Grafiğe) Sqlden Veri Çekme\Chart(Grafiğe) Sqlden Veri Çekme\obj\Debug\Chart_Grafiğe__Sqlden_Veri_Çekme.Form1.resources
+C:\Users\yunus\source\repos\Chart(Grafiğe) Sqlden Veri Çekme\Chart(Grafiğe) Sqlden Veri Çekme\obj\Debug\Chart_Grafiğe__Sqlden_Veri_Çekme.Properties.Resources.resources
+C:\Users\yunus\source\repos\Chart(Grafiğe) Sqlden Veri Çekme\Chart(Grafiğe) Sqlden Veri Çekme\obj\Debug\Chart(Grafiğe) Sqlden Veri Çekme.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Chart(Grafiğe) Sqlden Veri Çekme\Chart(Grafiğe) Sqlden Veri Çekme\obj\Debug\Chart(Grafiğe) Sqlden Veri Çekme.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Chart(Grafiğe) Sqlden Veri Çekme\Chart(Grafiğe) Sqlden Veri Çekme\bin\Debug\Chart(Grafiğe) Sqlden Veri Çekme.exe.config
+C:\Users\yunus\source\repos\Chart(Grafiğe) Sqlden Veri Çekme\Chart(Grafiğe) Sqlden Veri Çekme\bin\Debug\Chart(Grafiğe) Sqlden Veri Çekme.exe
+C:\Users\yunus\source\repos\Chart(Grafiğe) Sqlden Veri Çekme\Chart(Grafiğe) Sqlden Veri Çekme\bin\Debug\Chart(Grafiğe) Sqlden Veri Çekme.pdb
+C:\Users\yunus\source\repos\Chart(Grafiğe) Sqlden Veri Çekme\Chart(Grafiğe) Sqlden Veri Çekme\obj\Debug\Chart(Grafiğe) Sqlden Veri Çekme.exe
+C:\Users\yunus\source\repos\Chart(Grafiğe) Sqlden Veri Çekme\Chart(Grafiğe) Sqlden Veri Çekme\obj\Debug\Chart(Grafiğe) Sqlden Veri Çekme.pdb

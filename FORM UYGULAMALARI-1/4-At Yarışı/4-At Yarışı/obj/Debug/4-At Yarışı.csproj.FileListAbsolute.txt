@@ -1,0 +1,30 @@
+C:\Users\yunus\source\repos\4-At Yarışı\4-At Yarışı\bin\Debug\4-At Yarışı.exe.config
+C:\Users\yunus\source\repos\4-At Yarışı\4-At Yarışı\bin\Debug\4-At Yarışı.exe
+C:\Users\yunus\source\repos\4-At Yarışı\4-At Yarışı\bin\Debug\4-At Yarışı.pdb
+C:\Users\yunus\source\repos\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\4-At Yarışı\4-At Yarışı\obj\Debug\_4_At_Yarışı.Form1.resources
+C:\Users\yunus\source\repos\4-At Yarışı\4-At Yarışı\obj\Debug\_4_At_Yarışı.Properties.Resources.resources
+C:\Users\yunus\source\repos\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.exe
+C:\Users\yunus\source\repos\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\4-At Yarışı\4-At Yarışı\bin\Debug\4-At Yarışı.exe.config
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\4-At Yarışı\4-At Yarışı\bin\Debug\4-At Yarışı.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\4-At Yarışı\4-At Yarışı\bin\Debug\4-At Yarışı.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\4-At Yarışı\4-At Yarışı\obj\Debug\_4_At_Yarışı.Form1.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\4-At Yarışı\4-At Yarışı\obj\Debug\_4_At_Yarışı.Properties.Resources.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI-1\4-At Yarışı\4-At Yarışı\bin\Debug\4-At Yarışı.exe.config
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI-1\4-At Yarışı\4-At Yarışı\bin\Debug\4-At Yarışı.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI-1\4-At Yarışı\4-At Yarışı\bin\Debug\4-At Yarışı.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI-1\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI-1\4-At Yarışı\4-At Yarışı\obj\Debug\_4_At_Yarışı.Form1.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI-1\4-At Yarışı\4-At Yarışı\obj\Debug\_4_At_Yarışı.Properties.Resources.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI-1\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI-1\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI-1\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI-1\4-At Yarışı\4-At Yarışı\obj\Debug\4-At Yarışı.pdb

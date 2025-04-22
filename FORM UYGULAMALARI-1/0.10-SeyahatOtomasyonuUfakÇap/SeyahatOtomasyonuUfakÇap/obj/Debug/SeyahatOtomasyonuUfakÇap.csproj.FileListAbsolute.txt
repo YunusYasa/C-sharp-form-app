@@ -1,0 +1,11 @@
+C:\Users\yunus\source\repos\SeyahatOtomasyonuUfakÇap\SeyahatOtomasyonuUfakÇap\bin\Debug\SeyahatOtomasyonuUfakÇap.exe.config
+C:\Users\yunus\source\repos\SeyahatOtomasyonuUfakÇap\SeyahatOtomasyonuUfakÇap\bin\Debug\SeyahatOtomasyonuUfakÇap.exe
+C:\Users\yunus\source\repos\SeyahatOtomasyonuUfakÇap\SeyahatOtomasyonuUfakÇap\bin\Debug\SeyahatOtomasyonuUfakÇap.pdb
+C:\Users\yunus\source\repos\SeyahatOtomasyonuUfakÇap\SeyahatOtomasyonuUfakÇap\obj\Debug\SeyahatOtomasyonuUfakÇap.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\SeyahatOtomasyonuUfakÇap\SeyahatOtomasyonuUfakÇap\obj\Debug\SeyahatOtomasyonuUfakÇap.Form1.resources
+C:\Users\yunus\source\repos\SeyahatOtomasyonuUfakÇap\SeyahatOtomasyonuUfakÇap\obj\Debug\SeyahatOtomasyonuUfakÇap.Form2.resources
+C:\Users\yunus\source\repos\SeyahatOtomasyonuUfakÇap\SeyahatOtomasyonuUfakÇap\obj\Debug\SeyahatOtomasyonuUfakÇap.Properties.Resources.resources
+C:\Users\yunus\source\repos\SeyahatOtomasyonuUfakÇap\SeyahatOtomasyonuUfakÇap\obj\Debug\SeyahatOtomasyonuUfakÇap.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\SeyahatOtomasyonuUfakÇap\SeyahatOtomasyonuUfakÇap\obj\Debug\SeyahatOtomasyonuUfakÇap.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\SeyahatOtomasyonuUfakÇap\SeyahatOtomasyonuUfakÇap\obj\Debug\SeyahatOtomasyonuUfakÇap.exe
+C:\Users\yunus\source\repos\SeyahatOtomasyonuUfakÇap\SeyahatOtomasyonuUfakÇap\obj\Debug\SeyahatOtomasyonuUfakÇap.pdb

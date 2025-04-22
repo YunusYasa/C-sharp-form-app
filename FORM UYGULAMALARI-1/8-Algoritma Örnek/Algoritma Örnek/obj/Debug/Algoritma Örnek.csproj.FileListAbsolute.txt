@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Algoritma Örnek\Algoritma Örnek\bin\Debug\Algoritma Örnek.exe.config
+C:\Users\yunus\source\repos\Algoritma Örnek\Algoritma Örnek\bin\Debug\Algoritma Örnek.exe
+C:\Users\yunus\source\repos\Algoritma Örnek\Algoritma Örnek\bin\Debug\Algoritma Örnek.pdb
+C:\Users\yunus\source\repos\Algoritma Örnek\Algoritma Örnek\obj\Debug\Algoritma Örnek.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Algoritma Örnek\Algoritma Örnek\obj\Debug\Algoritma_Örnek.Form1.resources
+C:\Users\yunus\source\repos\Algoritma Örnek\Algoritma Örnek\obj\Debug\Algoritma_Örnek.Properties.Resources.resources
+C:\Users\yunus\source\repos\Algoritma Örnek\Algoritma Örnek\obj\Debug\Algoritma Örnek.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Algoritma Örnek\Algoritma Örnek\obj\Debug\Algoritma Örnek.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Algoritma Örnek\Algoritma Örnek\obj\Debug\Algoritma Örnek.exe
+C:\Users\yunus\source\repos\Algoritma Örnek\Algoritma Örnek\obj\Debug\Algoritma Örnek.pdb

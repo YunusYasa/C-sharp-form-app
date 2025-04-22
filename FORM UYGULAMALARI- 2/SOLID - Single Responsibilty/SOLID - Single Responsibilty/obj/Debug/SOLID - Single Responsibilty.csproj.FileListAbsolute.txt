@@ -1,0 +1,7 @@
+C:\Users\yunus\source\repos\SOLID - Single Responsibilty\SOLID - Single Responsibilty\bin\Debug\SOLID - Single Responsibilty.exe.config
+C:\Users\yunus\source\repos\SOLID - Single Responsibilty\SOLID - Single Responsibilty\bin\Debug\SOLID - Single Responsibilty.exe
+C:\Users\yunus\source\repos\SOLID - Single Responsibilty\SOLID - Single Responsibilty\bin\Debug\SOLID - Single Responsibilty.pdb
+C:\Users\yunus\source\repos\SOLID - Single Responsibilty\SOLID - Single Responsibilty\obj\Debug\SOLID - Single Responsibilty.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\SOLID - Single Responsibilty\SOLID - Single Responsibilty\obj\Debug\SOLID - Single Responsibilty.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\SOLID - Single Responsibilty\SOLID - Single Responsibilty\obj\Debug\SOLID - Single Responsibilty.exe
+C:\Users\yunus\source\repos\SOLID - Single Responsibilty\SOLID - Single Responsibilty\obj\Debug\SOLID - Single Responsibilty.pdb

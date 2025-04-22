@@ -1,0 +1,11 @@
+C:\Users\yunus\source\repos\Modern Login UI\Modern Login UI\bin\Debug\Modern Login UI.exe.config
+C:\Users\yunus\source\repos\Modern Login UI\Modern Login UI\bin\Debug\Modern Login UI.exe
+C:\Users\yunus\source\repos\Modern Login UI\Modern Login UI\bin\Debug\Modern Login UI.pdb
+C:\Users\yunus\source\repos\Modern Login UI\Modern Login UI\obj\Debug\Modern Login UI.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Modern Login UI\Modern Login UI\obj\Debug\Modern_Login_UI.Form1.resources
+C:\Users\yunus\source\repos\Modern Login UI\Modern Login UI\obj\Debug\Modern_Login_UI.Properties.Resources.resources
+C:\Users\yunus\source\repos\Modern Login UI\Modern Login UI\obj\Debug\Modern Login UI.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Modern Login UI\Modern Login UI\obj\Debug\Modern Login UI.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Modern Login UI\Modern Login UI\obj\Debug\Modern Login UI.exe
+C:\Users\yunus\source\repos\Modern Login UI\Modern Login UI\obj\Debug\Modern Login UI.pdb
+C:\Users\yunus\source\repos\Modern Login UI\Modern Login UI\obj\Debug\Modern_Login_UI.Form2.resources

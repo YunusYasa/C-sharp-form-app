@@ -1,0 +1,7 @@
+C:\Users\yunus\source\repos\SOLID - Dependency Inversion Principle\SOLID - Dependency Inversion Principle\bin\Debug\SOLID - Dependency Inversion Principle.exe.config
+C:\Users\yunus\source\repos\SOLID - Dependency Inversion Principle\SOLID - Dependency Inversion Principle\bin\Debug\SOLID - Dependency Inversion Principle.exe
+C:\Users\yunus\source\repos\SOLID - Dependency Inversion Principle\SOLID - Dependency Inversion Principle\bin\Debug\SOLID - Dependency Inversion Principle.pdb
+C:\Users\yunus\source\repos\SOLID - Dependency Inversion Principle\SOLID - Dependency Inversion Principle\obj\Debug\SOLID - Dependency Inversion Principle.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\SOLID - Dependency Inversion Principle\SOLID - Dependency Inversion Principle\obj\Debug\SOLID - Dependency Inversion Principle.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\SOLID - Dependency Inversion Principle\SOLID - Dependency Inversion Principle\obj\Debug\SOLID - Dependency Inversion Principle.exe
+C:\Users\yunus\source\repos\SOLID - Dependency Inversion Principle\SOLID - Dependency Inversion Principle\obj\Debug\SOLID - Dependency Inversion Principle.pdb

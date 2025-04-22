@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Dataset-Select\Dataset-Select\bin\Debug\Dataset-Select.exe.config
+C:\Users\yunus\source\repos\Dataset-Select\Dataset-Select\bin\Debug\Dataset-Select.exe
+C:\Users\yunus\source\repos\Dataset-Select\Dataset-Select\bin\Debug\Dataset-Select.pdb
+C:\Users\yunus\source\repos\Dataset-Select\Dataset-Select\obj\Debug\Dataset-Select.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Dataset-Select\Dataset-Select\obj\Debug\Dataset_Select.Form1.resources
+C:\Users\yunus\source\repos\Dataset-Select\Dataset-Select\obj\Debug\Dataset_Select.Properties.Resources.resources
+C:\Users\yunus\source\repos\Dataset-Select\Dataset-Select\obj\Debug\Dataset-Select.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Dataset-Select\Dataset-Select\obj\Debug\Dataset-Select.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Dataset-Select\Dataset-Select\obj\Debug\Dataset-Select.exe
+C:\Users\yunus\source\repos\Dataset-Select\Dataset-Select\obj\Debug\Dataset-Select.pdb

@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Paint (ama sadece kalem var)\Paint (ama sadece kalem var)\bin\Debug\Paint (ama sadece kalem var).exe.config
+C:\Users\yunus\source\repos\Paint (ama sadece kalem var)\Paint (ama sadece kalem var)\bin\Debug\Paint (ama sadece kalem var).exe
+C:\Users\yunus\source\repos\Paint (ama sadece kalem var)\Paint (ama sadece kalem var)\bin\Debug\Paint (ama sadece kalem var).pdb
+C:\Users\yunus\source\repos\Paint (ama sadece kalem var)\Paint (ama sadece kalem var)\obj\Debug\Paint (ama sadece kalem var).csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Paint (ama sadece kalem var)\Paint (ama sadece kalem var)\obj\Debug\Paint__ama_sadece_kalem_var_.Form1.resources
+C:\Users\yunus\source\repos\Paint (ama sadece kalem var)\Paint (ama sadece kalem var)\obj\Debug\Paint__ama_sadece_kalem_var_.Properties.Resources.resources
+C:\Users\yunus\source\repos\Paint (ama sadece kalem var)\Paint (ama sadece kalem var)\obj\Debug\Paint (ama sadece kalem var).csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Paint (ama sadece kalem var)\Paint (ama sadece kalem var)\obj\Debug\Paint (ama sadece kalem var).csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Paint (ama sadece kalem var)\Paint (ama sadece kalem var)\obj\Debug\Paint (ama sadece kalem var).exe
+C:\Users\yunus\source\repos\Paint (ama sadece kalem var)\Paint (ama sadece kalem var)\obj\Debug\Paint (ama sadece kalem var).pdb

@@ -1,0 +1,22 @@
+C:\Users\yunus\source\repos\Lig Olayıı\Lig Olayıı\bin\Debug\Lig Olayıı.exe.config
+C:\Users\yunus\source\repos\Lig Olayıı\Lig Olayıı\bin\Debug\Lig Olayıı.exe
+C:\Users\yunus\source\repos\Lig Olayıı\Lig Olayıı\bin\Debug\Lig Olayıı.pdb
+C:\Users\yunus\source\repos\Lig Olayıı\Lig Olayıı\obj\Debug\Lig Olayıı.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Lig Olayıı\Lig Olayıı\obj\Debug\Lig_Olayıı.Form1.resources
+C:\Users\yunus\source\repos\Lig Olayıı\Lig Olayıı\obj\Debug\Lig_Olayıı.Form2.resources
+C:\Users\yunus\source\repos\Lig Olayıı\Lig Olayıı\obj\Debug\Lig_Olayıı.Properties.Resources.resources
+C:\Users\yunus\source\repos\Lig Olayıı\Lig Olayıı\obj\Debug\Lig Olayıı.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Lig Olayıı\Lig Olayıı\obj\Debug\Lig Olayıı.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Lig Olayıı\Lig Olayıı\obj\Debug\Lig Olayıı.exe
+C:\Users\yunus\source\repos\Lig Olayıı\Lig Olayıı\obj\Debug\Lig Olayıı.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\0.6-Lig Olayıı\Lig Olayıı\bin\Debug\Lig Olayıı.exe.config
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\0.6-Lig Olayıı\Lig Olayıı\bin\Debug\Lig Olayıı.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\0.6-Lig Olayıı\Lig Olayıı\bin\Debug\Lig Olayıı.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\0.6-Lig Olayıı\Lig Olayıı\obj\Debug\Lig Olayıı.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\0.6-Lig Olayıı\Lig Olayıı\obj\Debug\Lig_Olayıı.Form1.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\0.6-Lig Olayıı\Lig Olayıı\obj\Debug\Lig_Olayıı.Form2.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\0.6-Lig Olayıı\Lig Olayıı\obj\Debug\Lig_Olayıı.Properties.Resources.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\0.6-Lig Olayıı\Lig Olayıı\obj\Debug\Lig Olayıı.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\0.6-Lig Olayıı\Lig Olayıı\obj\Debug\Lig Olayıı.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\0.6-Lig Olayıı\Lig Olayıı\obj\Debug\Lig Olayıı.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\0.6-Lig Olayıı\Lig Olayıı\obj\Debug\Lig Olayıı.pdb

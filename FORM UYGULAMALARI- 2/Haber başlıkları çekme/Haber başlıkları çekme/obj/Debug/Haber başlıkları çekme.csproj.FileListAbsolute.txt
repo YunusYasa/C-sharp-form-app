@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Haber başlıkları çekme\Haber başlıkları çekme\bin\Debug\Haber başlıkları çekme.exe.config
+C:\Users\yunus\source\repos\Haber başlıkları çekme\Haber başlıkları çekme\bin\Debug\Haber başlıkları çekme.exe
+C:\Users\yunus\source\repos\Haber başlıkları çekme\Haber başlıkları çekme\bin\Debug\Haber başlıkları çekme.pdb
+C:\Users\yunus\source\repos\Haber başlıkları çekme\Haber başlıkları çekme\obj\Debug\Haber başlıkları çekme.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Haber başlıkları çekme\Haber başlıkları çekme\obj\Debug\Haber_başlıkları_çekme.Form1.resources
+C:\Users\yunus\source\repos\Haber başlıkları çekme\Haber başlıkları çekme\obj\Debug\Haber_başlıkları_çekme.Properties.Resources.resources
+C:\Users\yunus\source\repos\Haber başlıkları çekme\Haber başlıkları çekme\obj\Debug\Haber başlıkları çekme.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Haber başlıkları çekme\Haber başlıkları çekme\obj\Debug\Haber başlıkları çekme.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Haber başlıkları çekme\Haber başlıkları çekme\obj\Debug\Haber başlıkları çekme.exe
+C:\Users\yunus\source\repos\Haber başlıkları çekme\Haber başlıkları çekme\obj\Debug\Haber başlıkları çekme.pdb

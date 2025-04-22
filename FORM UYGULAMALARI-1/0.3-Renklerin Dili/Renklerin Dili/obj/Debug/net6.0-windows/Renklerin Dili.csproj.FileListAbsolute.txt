@@ -1,0 +1,18 @@
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\bin\Debug\net6.0-windows\Renklerin Dili.exe
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\bin\Debug\net6.0-windows\Renklerin Dili.deps.json
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\bin\Debug\net6.0-windows\Renklerin Dili.runtimeconfig.json
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\bin\Debug\net6.0-windows\Renklerin Dili.dll
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\bin\Debug\net6.0-windows\Renklerin Dili.pdb
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\Renklerin_Dili.Form1.resources
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\Renklerin_Dili.Form2.resources
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\Renklerin_Dili.Properties.Resources.resources
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\Renklerin Dili.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\Renklerin Dili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\Renklerin Dili.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\Renklerin Dili.AssemblyInfo.cs
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\Renklerin Dili.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\Renklerin Dili.dll
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\refint\Renklerin Dili.dll
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\Renklerin Dili.pdb
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\Renklerin Dili.genruntimeconfig.cache
+C:\Users\yunus\source\repos\Renklerin Dili\Renklerin Dili\obj\Debug\net6.0-windows\ref\Renklerin Dili.dll

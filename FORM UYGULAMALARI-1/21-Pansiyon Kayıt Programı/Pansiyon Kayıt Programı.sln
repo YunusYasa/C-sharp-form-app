@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pansiyon Kayıt Programı", "Pansiyon Kayıt Programı\Pansiyon Kayıt Programı.csproj", "{ACE88D9F-C3AA-4DB7-ACF4-F9152464239E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{B044AD4C-8147-428A-BDE9-D67724AF620F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE88D9F-C3AA-4DB7-ACF4-F9152464239E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE88D9F-C3AA-4DB7-ACF4-F9152464239E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE88D9F-C3AA-4DB7-ACF4-F9152464239E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE88D9F-C3AA-4DB7-ACF4-F9152464239E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B044AD4C-8147-428A-BDE9-D67724AF620F}.Debug|Any CPU.ActiveCfg = Debug
+		{B044AD4C-8147-428A-BDE9-D67724AF620F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992756B5-567A-4BB0-9B86-387B635FD588}
+	EndGlobalSection
+EndGlobal

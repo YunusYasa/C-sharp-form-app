@@ -1,0 +1,21 @@
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\Aforge Kütüphanesi İle Webcam Kontrolü.exe.config
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\Aforge Kütüphanesi İle Webcam Kontrolü.exe
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\Aforge Kütüphanesi İle Webcam Kontrolü.pdb
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\AForge.dll
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\AForge.Video.dll
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\AForge.xml
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\AForge.Video.xml
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\obj\Debug\Aforge Kütüphanesi İle Webcam Kontrolü.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\obj\Debug\Aforge_Kütüphanesi_İle_Webcam_Kontrolü.Form1.resources
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\obj\Debug\Aforge_Kütüphanesi_İle_Webcam_Kontrolü.Properties.Resources.resources
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\obj\Debug\Aforge Kütüphanesi İle Webcam Kontrolü.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\obj\Debug\Aforge Kütüphanesi İle Webcam Kontrolü.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\obj\Debug\Aforge Kütüphanesi İle Webcam Kontrolü.csproj.CopyComplete
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\obj\Debug\Aforge Kütüphanesi İle Webcam Kontrolü.exe
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\obj\Debug\Aforge Kütüphanesi İle Webcam Kontrolü.pdb
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\zxing.dll
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\zxing.presentation.dll
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\zxing.xml
+C:\Users\yunus\source\repos\Aforge Kütüphanesi İle Webcam Kontrolü\Aforge Kütüphanesi İle Webcam Kontrolü\bin\Debug\zxing.presentation.xml

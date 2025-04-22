@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\ContextMenuStrip Sağ tık işlemleri\ContextMenuStrip Sağ tık işlemleri\bin\Debug\ContextMenuStrip Sağ tık işlemleri.exe.config
+C:\Users\yunus\source\repos\ContextMenuStrip Sağ tık işlemleri\ContextMenuStrip Sağ tık işlemleri\bin\Debug\ContextMenuStrip Sağ tık işlemleri.exe
+C:\Users\yunus\source\repos\ContextMenuStrip Sağ tık işlemleri\ContextMenuStrip Sağ tık işlemleri\bin\Debug\ContextMenuStrip Sağ tık işlemleri.pdb
+C:\Users\yunus\source\repos\ContextMenuStrip Sağ tık işlemleri\ContextMenuStrip Sağ tık işlemleri\obj\Debug\ContextMenuStrip Sağ tık işlemleri.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\ContextMenuStrip Sağ tık işlemleri\ContextMenuStrip Sağ tık işlemleri\obj\Debug\ContextMenuStrip_Sağ_tık_işlemleri.Form1.resources
+C:\Users\yunus\source\repos\ContextMenuStrip Sağ tık işlemleri\ContextMenuStrip Sağ tık işlemleri\obj\Debug\ContextMenuStrip_Sağ_tık_işlemleri.Properties.Resources.resources
+C:\Users\yunus\source\repos\ContextMenuStrip Sağ tık işlemleri\ContextMenuStrip Sağ tık işlemleri\obj\Debug\ContextMenuStrip Sağ tık işlemleri.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\ContextMenuStrip Sağ tık işlemleri\ContextMenuStrip Sağ tık işlemleri\obj\Debug\ContextMenuStrip Sağ tık işlemleri.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\ContextMenuStrip Sağ tık işlemleri\ContextMenuStrip Sağ tık işlemleri\obj\Debug\ContextMenuStrip Sağ tık işlemleri.exe
+C:\Users\yunus\source\repos\ContextMenuStrip Sağ tık işlemleri\ContextMenuStrip Sağ tık işlemleri\obj\Debug\ContextMenuStrip Sağ tık işlemleri.pdb

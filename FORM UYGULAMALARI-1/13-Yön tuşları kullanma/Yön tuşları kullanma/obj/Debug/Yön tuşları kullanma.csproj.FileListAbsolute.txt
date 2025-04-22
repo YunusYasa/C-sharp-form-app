@@ -1,0 +1,20 @@
+C:\Users\yunus\source\repos\Yön tuşları kullanma\Yön tuşları kullanma\bin\Debug\Yön tuşları kullanma.exe.config
+C:\Users\yunus\source\repos\Yön tuşları kullanma\Yön tuşları kullanma\bin\Debug\Yön tuşları kullanma.exe
+C:\Users\yunus\source\repos\Yön tuşları kullanma\Yön tuşları kullanma\bin\Debug\Yön tuşları kullanma.pdb
+C:\Users\yunus\source\repos\Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön tuşları kullanma.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön_tuşları_kullanma.Form1.resources
+C:\Users\yunus\source\repos\Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön_tuşları_kullanma.Properties.Resources.resources
+C:\Users\yunus\source\repos\Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön tuşları kullanma.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön tuşları kullanma.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön tuşları kullanma.exe
+C:\Users\yunus\source\repos\Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön tuşları kullanma.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\13-Yön tuşları kullanma\Yön tuşları kullanma\bin\Debug\Yön tuşları kullanma.exe.config
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\13-Yön tuşları kullanma\Yön tuşları kullanma\bin\Debug\Yön tuşları kullanma.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\13-Yön tuşları kullanma\Yön tuşları kullanma\bin\Debug\Yön tuşları kullanma.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\13-Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön tuşları kullanma.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\13-Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön_tuşları_kullanma.Form1.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\13-Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön_tuşları_kullanma.Properties.Resources.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\13-Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön tuşları kullanma.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\13-Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön tuşları kullanma.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\13-Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön tuşları kullanma.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\13-Yön tuşları kullanma\Yön tuşları kullanma\obj\Debug\Yön tuşları kullanma.pdb

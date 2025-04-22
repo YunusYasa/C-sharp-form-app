@@ -1,0 +1,11 @@
+C:\Users\yunus\source\repos\Site Emlak Programı\Site Emlak Programı\bin\Debug\Site Emlak Programı.exe.config
+C:\Users\yunus\source\repos\Site Emlak Programı\Site Emlak Programı\bin\Debug\Site Emlak Programı.exe
+C:\Users\yunus\source\repos\Site Emlak Programı\Site Emlak Programı\bin\Debug\Site Emlak Programı.pdb
+C:\Users\yunus\source\repos\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site Emlak Programı.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site_Emlak_Programı.Form1.resources
+C:\Users\yunus\source\repos\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site_Emlak_Programı.Form2.resources
+C:\Users\yunus\source\repos\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site_Emlak_Programı.Properties.Resources.resources
+C:\Users\yunus\source\repos\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site Emlak Programı.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site Emlak Programı.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site Emlak Programı.exe
+C:\Users\yunus\source\repos\Site Emlak Programı\Site Emlak Programı\obj\Debug\Site Emlak Programı.pdb

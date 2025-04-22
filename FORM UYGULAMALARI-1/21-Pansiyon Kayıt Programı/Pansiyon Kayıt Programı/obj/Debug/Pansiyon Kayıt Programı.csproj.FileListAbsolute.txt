@@ -1,0 +1,22 @@
+C:\Users\yunus\source\repos\Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\bin\Debug\Pansiyon Kayıt Programı.exe.config
+C:\Users\yunus\source\repos\Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\bin\Debug\Pansiyon Kayıt Programı.exe
+C:\Users\yunus\source\repos\Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\bin\Debug\Pansiyon Kayıt Programı.pdb
+C:\Users\yunus\source\repos\Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon Kayıt Programı.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon_Kayıt_Programı.Properties.Resources.resources
+C:\Users\yunus\source\repos\Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon Kayıt Programı.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon Kayıt Programı.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon Kayıt Programı.exe
+C:\Users\yunus\source\repos\Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon Kayıt Programı.pdb
+C:\Users\yunus\source\repos\Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon_Kayıt_Programı.KAYIT.resources
+C:\Users\yunus\source\repos\Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon_Kayıt_Programı.GİRİŞ.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\21-Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\bin\Debug\Pansiyon Kayıt Programı.exe.config
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\21-Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\bin\Debug\Pansiyon Kayıt Programı.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\21-Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\bin\Debug\Pansiyon Kayıt Programı.pdb
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\21-Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon Kayıt Programı.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\21-Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon_Kayıt_Programı.KAYIT.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\21-Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon_Kayıt_Programı.GİRİŞ.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\21-Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon_Kayıt_Programı.Properties.Resources.resources
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\21-Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon Kayıt Programı.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\21-Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon Kayıt Programı.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\21-Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon Kayıt Programı.exe
+C:\Users\yunus\Desktop\C#\FORM UYGULAMALARI\21-Pansiyon Kayıt Programı\Pansiyon Kayıt Programı\obj\Debug\Pansiyon Kayıt Programı.pdb

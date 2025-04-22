@@ -1,0 +1,12 @@
+C:\Users\yunus\source\repos\Dinamik araç oluşturma\Dinamik araç oluşturma\bin\Debug\Dinamik araç oluşturma.exe.config
+C:\Users\yunus\source\repos\Dinamik araç oluşturma\Dinamik araç oluşturma\bin\Debug\Dinamik araç oluşturma.exe
+C:\Users\yunus\source\repos\Dinamik araç oluşturma\Dinamik araç oluşturma\bin\Debug\Dinamik araç oluşturma.pdb
+C:\Users\yunus\source\repos\Dinamik araç oluşturma\Dinamik araç oluşturma\obj\Debug\Dinamik araç oluşturma.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Dinamik araç oluşturma\Dinamik araç oluşturma\obj\Debug\Dinamik_araç_oluşturma.Form1.resources
+C:\Users\yunus\source\repos\Dinamik araç oluşturma\Dinamik araç oluşturma\obj\Debug\Dinamik_araç_oluşturma.Properties.Resources.resources
+C:\Users\yunus\source\repos\Dinamik araç oluşturma\Dinamik araç oluşturma\obj\Debug\Dinamik araç oluşturma.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Dinamik araç oluşturma\Dinamik araç oluşturma\obj\Debug\Dinamik araç oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Dinamik araç oluşturma\Dinamik araç oluşturma\obj\Debug\Dinamik araç oluşturma.exe
+C:\Users\yunus\source\repos\Dinamik araç oluşturma\Dinamik araç oluşturma\obj\Debug\Dinamik araç oluşturma.pdb
+C:\Users\yunus\source\repos\Dinamik araç oluşturma\Dinamik araç oluşturma\obj\Debug\Dinamik_araç_oluşturma.Form2.resources
+C:\Users\yunus\source\repos\Dinamik araç oluşturma\Dinamik araç oluşturma\obj\Debug\Dinamik_araç_oluşturma.Form3.resources

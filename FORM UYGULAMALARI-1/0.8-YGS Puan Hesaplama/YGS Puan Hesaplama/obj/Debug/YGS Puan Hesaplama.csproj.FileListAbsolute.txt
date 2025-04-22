@@ -1,0 +1,11 @@
+C:\Users\yunus\source\repos\YGS Puan Hesaplama\YGS Puan Hesaplama\bin\Debug\YGS Puan Hesaplama.exe.config
+C:\Users\yunus\source\repos\YGS Puan Hesaplama\YGS Puan Hesaplama\bin\Debug\YGS Puan Hesaplama.exe
+C:\Users\yunus\source\repos\YGS Puan Hesaplama\YGS Puan Hesaplama\bin\Debug\YGS Puan Hesaplama.pdb
+C:\Users\yunus\source\repos\YGS Puan Hesaplama\YGS Puan Hesaplama\obj\Debug\YGS Puan Hesaplama.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\YGS Puan Hesaplama\YGS Puan Hesaplama\obj\Debug\YGS_Puan_Hesaplama.Form1.resources
+C:\Users\yunus\source\repos\YGS Puan Hesaplama\YGS Puan Hesaplama\obj\Debug\YGS_Puan_Hesaplama.Properties.Resources.resources
+C:\Users\yunus\source\repos\YGS Puan Hesaplama\YGS Puan Hesaplama\obj\Debug\YGS Puan Hesaplama.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\YGS Puan Hesaplama\YGS Puan Hesaplama\obj\Debug\YGS Puan Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\YGS Puan Hesaplama\YGS Puan Hesaplama\obj\Debug\YGS Puan Hesaplama.exe
+C:\Users\yunus\source\repos\YGS Puan Hesaplama\YGS Puan Hesaplama\obj\Debug\YGS Puan Hesaplama.pdb
+C:\Users\yunus\source\repos\YGS Puan Hesaplama\YGS Puan Hesaplama\obj\Debug\YGS_Puan_Hesaplama.Form2.resources

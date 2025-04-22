@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Chart(Grafik)\Chart(Grafik)\bin\Debug\Chart(Grafik).exe.config
+C:\Users\yunus\source\repos\Chart(Grafik)\Chart(Grafik)\bin\Debug\Chart(Grafik).exe
+C:\Users\yunus\source\repos\Chart(Grafik)\Chart(Grafik)\bin\Debug\Chart(Grafik).pdb
+C:\Users\yunus\source\repos\Chart(Grafik)\Chart(Grafik)\obj\Debug\Chart(Grafik).csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Chart(Grafik)\Chart(Grafik)\obj\Debug\Chart_Grafik_.Form1.resources
+C:\Users\yunus\source\repos\Chart(Grafik)\Chart(Grafik)\obj\Debug\Chart_Grafik_.Properties.Resources.resources
+C:\Users\yunus\source\repos\Chart(Grafik)\Chart(Grafik)\obj\Debug\Chart(Grafik).csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Chart(Grafik)\Chart(Grafik)\obj\Debug\Chart(Grafik).csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Chart(Grafik)\Chart(Grafik)\obj\Debug\Chart(Grafik).exe
+C:\Users\yunus\source\repos\Chart(Grafik)\Chart(Grafik)\obj\Debug\Chart(Grafik).pdb

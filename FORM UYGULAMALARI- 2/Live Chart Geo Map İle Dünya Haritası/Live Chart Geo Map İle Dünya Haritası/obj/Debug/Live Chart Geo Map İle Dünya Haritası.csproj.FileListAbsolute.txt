@@ -1,0 +1,21 @@
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\Live Chart Geo Map İle Dünya Haritası.exe.config
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\Live Chart Geo Map İle Dünya Haritası.exe
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\Live Chart Geo Map İle Dünya Haritası.pdb
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\LiveCharts.dll
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\LiveCharts.pdb
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\LiveCharts.xml
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\obj\Debug\Live Chart Geo Map İle Dünya Haritası.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\obj\Debug\Live_Chart_Geo_Map_İle_Dünya_Haritası.Form1.resources
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\obj\Debug\Live_Chart_Geo_Map_İle_Dünya_Haritası.Properties.Resources.resources
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\obj\Debug\Live Chart Geo Map İle Dünya Haritası.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\obj\Debug\Live Chart Geo Map İle Dünya Haritası.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\obj\Debug\Live Chart Geo Map İle Dünya Haritası.csproj.CopyComplete
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\obj\Debug\Live Chart Geo Map İle Dünya Haritası.exe
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\obj\Debug\Live Chart Geo Map İle Dünya Haritası.pdb
+C:\Users\yunus\source\repos\Live Chart Geo Map İle Dünya Haritası\Live Chart Geo Map İle Dünya Haritası\bin\Debug\XMLFile1.xml

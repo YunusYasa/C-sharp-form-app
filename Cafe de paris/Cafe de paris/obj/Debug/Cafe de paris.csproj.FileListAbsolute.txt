@@ -1,0 +1,33 @@
+C:\Users\yunus\source\repos\Cafe de paris\Cafe de paris\bin\Debug\Cafe de paris.exe.config
+C:\Users\yunus\source\repos\Cafe de paris\Cafe de paris\bin\Debug\Cafe de paris.exe
+C:\Users\yunus\source\repos\Cafe de paris\Cafe de paris\bin\Debug\Cafe de paris.pdb
+C:\Users\yunus\source\repos\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Cafe de paris\Cafe de paris\obj\Debug\Cafe_de_paris.anaYemek.resources
+C:\Users\yunus\source\repos\Cafe de paris\Cafe de paris\obj\Debug\Cafe_de_paris.Form1.resources
+C:\Users\yunus\source\repos\Cafe de paris\Cafe de paris\obj\Debug\Cafe_de_paris.Properties.Resources.resources
+C:\Users\yunus\source\repos\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.exe
+C:\Users\yunus\source\repos\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.pdb
+C:\Users\yunus\source\repos\Cafe de paris\Cafe de paris\obj\Debug\Cafe_de_paris.Masa.resources
+C:\Users\yunus\Desktop\Cafe de paris\Cafe de paris\bin\Debug\Cafe de paris.exe.config
+C:\Users\yunus\Desktop\Cafe de paris\Cafe de paris\bin\Debug\Cafe de paris.exe
+C:\Users\yunus\Desktop\Cafe de paris\Cafe de paris\bin\Debug\Cafe de paris.pdb
+C:\Users\yunus\Desktop\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\Cafe de paris\Cafe de paris\obj\Debug\Cafe_de_paris.anaYemek.resources
+C:\Users\yunus\Desktop\Cafe de paris\Cafe de paris\obj\Debug\Cafe_de_paris.Form1.resources
+C:\Users\yunus\Desktop\Cafe de paris\Cafe de paris\obj\Debug\Cafe_de_paris.Masa.resources
+C:\Users\yunus\Desktop\Cafe de paris\Cafe de paris\obj\Debug\Cafe_de_paris.Properties.Resources.resources
+C:\Users\yunus\Desktop\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.exe
+C:\Users\yunus\Desktop\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.pdb
+C:\Users\yunus\Desktop\C#\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\C#\Cafe de paris\Cafe de paris\obj\Debug\Cafe_de_paris.anaYemek.resources
+C:\Users\yunus\Desktop\C#\Cafe de paris\Cafe de paris\obj\Debug\Cafe_de_paris.Form1.resources
+C:\Users\yunus\Desktop\C#\Cafe de paris\Cafe de paris\obj\Debug\Cafe_de_paris.Masa.resources
+C:\Users\yunus\Desktop\C#\Cafe de paris\Cafe de paris\obj\Debug\Cafe_de_paris.Properties.Resources.resources
+C:\Users\yunus\Desktop\C#\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\C#\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\C#\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.exe
+C:\Users\yunus\Desktop\C#\Cafe de paris\Cafe de paris\obj\Debug\Cafe de paris.pdb

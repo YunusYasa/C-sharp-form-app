@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\yunus\source\repos\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\yunus\source\repos\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\yunus\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Form1.resources
+C:\Users\yunus\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\yunus\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\yunus\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb

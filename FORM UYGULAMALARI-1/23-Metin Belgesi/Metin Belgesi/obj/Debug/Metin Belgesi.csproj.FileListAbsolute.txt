@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Metin Belgesi\Metin Belgesi\bin\Debug\Metin Belgesi.exe.config
+C:\Users\yunus\source\repos\Metin Belgesi\Metin Belgesi\bin\Debug\Metin Belgesi.exe
+C:\Users\yunus\source\repos\Metin Belgesi\Metin Belgesi\bin\Debug\Metin Belgesi.pdb
+C:\Users\yunus\source\repos\Metin Belgesi\Metin Belgesi\obj\Debug\Metin Belgesi.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Metin Belgesi\Metin Belgesi\obj\Debug\Metin_Belgesi.Form1.resources
+C:\Users\yunus\source\repos\Metin Belgesi\Metin Belgesi\obj\Debug\Metin_Belgesi.Properties.Resources.resources
+C:\Users\yunus\source\repos\Metin Belgesi\Metin Belgesi\obj\Debug\Metin Belgesi.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Metin Belgesi\Metin Belgesi\obj\Debug\Metin Belgesi.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Metin Belgesi\Metin Belgesi\obj\Debug\Metin Belgesi.exe
+C:\Users\yunus\source\repos\Metin Belgesi\Metin Belgesi\obj\Debug\Metin Belgesi.pdb

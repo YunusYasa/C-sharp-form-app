@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\5-Zar Oyunu\5-Zar Oyunu\bin\Debug\5-Zar Oyunu.exe.config
+C:\Users\yunus\source\repos\5-Zar Oyunu\5-Zar Oyunu\bin\Debug\5-Zar Oyunu.exe
+C:\Users\yunus\source\repos\5-Zar Oyunu\5-Zar Oyunu\bin\Debug\5-Zar Oyunu.pdb
+C:\Users\yunus\source\repos\5-Zar Oyunu\5-Zar Oyunu\obj\Debug\5-Zar Oyunu.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\5-Zar Oyunu\5-Zar Oyunu\obj\Debug\_5_Zar_Oyunu.Form1.resources
+C:\Users\yunus\source\repos\5-Zar Oyunu\5-Zar Oyunu\obj\Debug\_5_Zar_Oyunu.Properties.Resources.resources
+C:\Users\yunus\source\repos\5-Zar Oyunu\5-Zar Oyunu\obj\Debug\5-Zar Oyunu.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\5-Zar Oyunu\5-Zar Oyunu\obj\Debug\5-Zar Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\5-Zar Oyunu\5-Zar Oyunu\obj\Debug\5-Zar Oyunu.exe
+C:\Users\yunus\source\repos\5-Zar Oyunu\5-Zar Oyunu\obj\Debug\5-Zar Oyunu.pdb

@@ -1,0 +1,16 @@
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\bin\Debug\net6.0-windows\Random Örneği.exe
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\bin\Debug\net6.0-windows\Random Örneği.deps.json
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\bin\Debug\net6.0-windows\Random Örneği.runtimeconfig.json
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\bin\Debug\net6.0-windows\Random Örneği.dll
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\bin\Debug\net6.0-windows\Random Örneği.pdb
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\obj\Debug\net6.0-windows\Random_Örneği.Form1.resources
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\obj\Debug\net6.0-windows\Random Örneği.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\obj\Debug\net6.0-windows\Random Örneği.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\obj\Debug\net6.0-windows\Random Örneği.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\obj\Debug\net6.0-windows\Random Örneği.AssemblyInfo.cs
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\obj\Debug\net6.0-windows\Random Örneği.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\obj\Debug\net6.0-windows\Random Örneği.dll
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\obj\Debug\net6.0-windows\refint\Random Örneği.dll
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\obj\Debug\net6.0-windows\Random Örneği.pdb
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\obj\Debug\net6.0-windows\Random Örneği.genruntimeconfig.cache
+C:\Users\yunus\source\repos\Random Örneği\Random Örneği\obj\Debug\net6.0-windows\ref\Random Örneği.dll

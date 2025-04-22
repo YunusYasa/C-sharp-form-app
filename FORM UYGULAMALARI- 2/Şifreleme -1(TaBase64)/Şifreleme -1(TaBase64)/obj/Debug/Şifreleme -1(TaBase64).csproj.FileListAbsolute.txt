@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Şifreleme -1(TaBase64)\Şifreleme -1(TaBase64)\bin\Debug\Şifreleme -1(TaBase64).exe.config
+C:\Users\yunus\source\repos\Şifreleme -1(TaBase64)\Şifreleme -1(TaBase64)\bin\Debug\Şifreleme -1(TaBase64).exe
+C:\Users\yunus\source\repos\Şifreleme -1(TaBase64)\Şifreleme -1(TaBase64)\bin\Debug\Şifreleme -1(TaBase64).pdb
+C:\Users\yunus\source\repos\Şifreleme -1(TaBase64)\Şifreleme -1(TaBase64)\obj\Debug\Şifreleme -1(TaBase64).csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Şifreleme -1(TaBase64)\Şifreleme -1(TaBase64)\obj\Debug\Şifreleme__1_TaBase64_.Form1.resources
+C:\Users\yunus\source\repos\Şifreleme -1(TaBase64)\Şifreleme -1(TaBase64)\obj\Debug\Şifreleme__1_TaBase64_.Properties.Resources.resources
+C:\Users\yunus\source\repos\Şifreleme -1(TaBase64)\Şifreleme -1(TaBase64)\obj\Debug\Şifreleme -1(TaBase64).csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Şifreleme -1(TaBase64)\Şifreleme -1(TaBase64)\obj\Debug\Şifreleme -1(TaBase64).csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Şifreleme -1(TaBase64)\Şifreleme -1(TaBase64)\obj\Debug\Şifreleme -1(TaBase64).exe
+C:\Users\yunus\source\repos\Şifreleme -1(TaBase64)\Şifreleme -1(TaBase64)\obj\Debug\Şifreleme -1(TaBase64).pdb

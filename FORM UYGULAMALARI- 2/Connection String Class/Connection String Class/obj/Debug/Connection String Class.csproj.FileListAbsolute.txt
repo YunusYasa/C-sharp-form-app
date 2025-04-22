@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Connection String Class\Connection String Class\bin\Debug\Connection String Class.exe.config
+C:\Users\yunus\source\repos\Connection String Class\Connection String Class\bin\Debug\Connection String Class.exe
+C:\Users\yunus\source\repos\Connection String Class\Connection String Class\bin\Debug\Connection String Class.pdb
+C:\Users\yunus\source\repos\Connection String Class\Connection String Class\obj\Debug\Connection String Class.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Connection String Class\Connection String Class\obj\Debug\Connection_String_Class.Form1.resources
+C:\Users\yunus\source\repos\Connection String Class\Connection String Class\obj\Debug\Connection_String_Class.Properties.Resources.resources
+C:\Users\yunus\source\repos\Connection String Class\Connection String Class\obj\Debug\Connection String Class.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Connection String Class\Connection String Class\obj\Debug\Connection String Class.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Connection String Class\Connection String Class\obj\Debug\Connection String Class.exe
+C:\Users\yunus\source\repos\Connection String Class\Connection String Class\obj\Debug\Connection String Class.pdb

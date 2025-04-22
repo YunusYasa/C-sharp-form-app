@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\OOP-3 Kapsülleme\OOP-3 Kapsülleme\obj\Debug\OOP-3 Kapsülleme.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\OOP-3 Kapsülleme\OOP-3 Kapsülleme\obj\Debug\OOP_3_Kapsülleme.Form1.resources
+C:\Users\yunus\source\repos\OOP-3 Kapsülleme\OOP-3 Kapsülleme\obj\Debug\OOP_3_Kapsülleme.Properties.Resources.resources
+C:\Users\yunus\source\repos\OOP-3 Kapsülleme\OOP-3 Kapsülleme\obj\Debug\OOP-3 Kapsülleme.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\OOP-3 Kapsülleme\OOP-3 Kapsülleme\obj\Debug\OOP-3 Kapsülleme.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\OOP-3 Kapsülleme\OOP-3 Kapsülleme\bin\Debug\OOP-3 Kapsülleme.exe.config
+C:\Users\yunus\source\repos\OOP-3 Kapsülleme\OOP-3 Kapsülleme\bin\Debug\OOP-3 Kapsülleme.exe
+C:\Users\yunus\source\repos\OOP-3 Kapsülleme\OOP-3 Kapsülleme\bin\Debug\OOP-3 Kapsülleme.pdb
+C:\Users\yunus\source\repos\OOP-3 Kapsülleme\OOP-3 Kapsülleme\obj\Debug\OOP-3 Kapsülleme.exe
+C:\Users\yunus\source\repos\OOP-3 Kapsülleme\OOP-3 Kapsülleme\obj\Debug\OOP-3 Kapsülleme.pdb

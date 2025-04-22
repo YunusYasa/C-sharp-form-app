@@ -1,0 +1,10 @@
+C:\Users\yunus\source\repos\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\yunus\source\repos\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\yunus\source\repos\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\yunus\source\repos\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Diziler\Diziler\obj\Debug\Diziler.Form1.resources
+C:\Users\yunus\source\repos\Diziler\Diziler\obj\Debug\Diziler.Properties.Resources.resources
+C:\Users\yunus\source\repos\Diziler\Diziler\obj\Debug\Diziler.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\yunus\source\repos\Diziler\Diziler\obj\Debug\Diziler.pdb
